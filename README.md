@@ -39,7 +39,6 @@ A simple and interactive Python application that allows users to compare any cou
 ## 💡 Example Output
 
 ```
-🌐 Country vs Bordering Nations Comparator
 Enter a country name (e.g., India): india
 🌍 India has 6 bordering country(ies).
 
