@@ -1,4 +1,5 @@
-# 🌐 Country vs Bordering Nations Comparator
+# 🌐 Country Info Finder with Border Comparison
+
 
 A simple and interactive Python application that allows users to compare any country with its neighboring countries. Using the REST Countries API, this project fetches live data such as population, capital, area, region, and official languages and presents it in a side-by-side comparison format.
 
@@ -31,6 +32,9 @@ A simple and interactive Python application that allows users to compare any cou
 2. Create a new notebook.
 
 3. Paste the code into a code cell and run it.
+
+4. Run the notebook and follow the prompt  
+
    
 ## 💡 Example Output
 
